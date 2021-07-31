@@ -1,0 +1,8 @@
+Extended standard cryptographic techniques having algorithmic limitations to apply new technologies like 
+DNA Computing, Diffie-Hellman key exchange and Image steganography based on pixel manipulation.
+
+LSB method and sequential embedding are not very secure. Hence we use the secret key generated from the 
+Diffie-Hellman Algorithm as a value to place and retrieve the message on the pixel.
+
+This will make sure that embedding onto the pixel is not sequential but also makes sure that if the key
+generated is not the same as the sender’s, the receiver won’t be able to retrieve a proper message.

@@ -1,2 +1,2 @@
-#Cryptography
-##Diffe-Hellman Key Exchange, DNA sequencing, Image Steganography
+Cryptography
+Diffe-Hellman Key Exchange, DNA sequencing, Image Steganography
